@@ -1,0 +1,21 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "description": "Some",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanmay Kacker",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "^1.14.1",
+    "browserify": "^11.2.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.52.4"
+  }
+}
